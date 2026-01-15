@@ -1,5 +1,7 @@
 # Forked script froom Chris Titus Tech's Bypass NRO on STEROIDS
 
+Generate unattend from https://schneegans.de/windows/unattend-generator/
+
 From the OOBE Screen press Shift + F10
 
 ```
